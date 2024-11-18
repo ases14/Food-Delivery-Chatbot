@@ -1,6 +1,8 @@
 # OrderMate: Interactive Chatbot for Food Ordering and Tracking
 OrderMate: Interactive Chatbot for Food Ordering and Tracking is a dynamic and user-friendly chatbot designed to streamline the food ordering and order tracking process. This AI-powered assistant allows customers to effortlessly place and modify their food orders, track order statuses, and access store timings. Whether you're looking for an easy way to manage your food order or need real-time updates on your order status, OrderMate ensures a smooth, fast, and interactive experience for users. Ideal for food delivery services, restaurants, and e-commerce platforms, OrderMate is here to enhance customer satisfaction with prompt and efficient assistance.
 
+https://github.com/user-attachments/assets/3bc4befe-1a38-455a-95ae-741296a71a74
+
 ## Features
 
 - Food orders
